@@ -1,3 +1,3 @@
 # Contrastive-ACE
 
-The code will be uploaded soon. 
+Code example of Contrastive-ACE on PACS dataset.
